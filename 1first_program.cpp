@@ -8,3 +8,5 @@ int main(){
     std::cout << "Its fatnastick!" << std::endl; // "endl" is used to end a line. for good performance, "'\n'" can be used
     return 0;
 }
+
+// learning git and github
