@@ -10,7 +10,7 @@ int main(){
     std::cin >> age;
 
     std::cout << "What is your full name?: ";
-    std::getline(std::cin >> std::ws, name); // the std::ws is used when any input is talen earlier than getline function by using cin. ws = white spaces
+    std::getline(std::cin >> std::ws, name); // the std::ws is used when any input is taken earlier than getline function by using cin. ws = white spaces
 
     std::cout << "Your name is " << name << " and you are " << age << " years old! \n";
 

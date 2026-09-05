@@ -11,7 +11,7 @@ int main(){
     double value;
 
     ans = 6%4;
-    num = 10/3; // since the cariable is int, this will result in integer division, hence num will be 3. 
+    num = 10/3; // since the variable is int, this will result in integer division, hence num will be 3. 
     value = 10.0/3; // here the variable and assignment is double so the division will be double and result will be 3.33
 
     std::cout << ans << '\n' << num << '\n' << value << '\n';
